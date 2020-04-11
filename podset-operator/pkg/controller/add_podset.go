@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/samhw/my-operator/pkg/controller/podset"
+	"github.com/samhw/my-operator/podset-operator/pkg/controller/podset"
 )
 
 func init() {
